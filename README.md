@@ -15,37 +15,37 @@ Features name: (Credit_Card.csv)
 
 **Gender:** Gender information
 
-Car_owner: Having car or not
+**Car_owner:** Having car or not
 
-Propert_owner: Having property or not
+**Propert_owner:** Having property or not
 
-Children: Count of children
+**Children:** Count of children
 
-Annual_income: Annual income
+**Annual_income:** Annual income
 
-Type_Income: Income type
+**Type_Income:** Income type
 
-Education: Education level
+**Education:** Education level
 
-Marital_status: Marital_status
+**Marital_status:** Marital_status
 
-Housing_type: Living style
+**Housing_type:** Living style
 
-Birthday_count: Use backward count from current day (0), -1 means yesterday.
+**Birthday_count:** Use backward count from current day (0), -1 means yesterday.
 
-Employed_days: Start date of employment. Use backward count from current day (0). Positive value means, individual is currently unemployed.
+**Employed_days:** Start date of employment. Use backward count from current day (0). Positive value means, individual is currently unemployed.
 
-Mobile_phone: Any mobile phone
+**Mobile_phone:** Any mobile phone
 
-Work_phone: Any work phone
+**Work_phone:** Any work phone
 
-Phone: Any phone number
+**Phone:** Any phone number
 
-EMAIL_ID: Any email ID
+**EMAIL_ID:** Any email ID
 
-Type_Occupation: Occupation
+**Type_Occupation:** Occupation
 
-Family_Members: Family size
+**Family_Members:** Family size
 
 
 Another data set (Credit_card_label.csv) contains two key pieces of information
